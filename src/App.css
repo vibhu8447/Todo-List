@@ -1,0 +1,52 @@
+#icons:hover
+{
+color: red;
+
+}
+#icons
+{
+    color: blue;
+    
+}
+.list
+{
+    list-style-type:none;
+}
+#iconbox
+{
+    /* color: red; */
+    max-width: 15px;
+}
+.container
+{
+background-color:rgb(228, 235, 236);
+width:fit-content;
+min-width: 100px;
+min-height:400px ;
+
+height: fit-content;
+border-radius: 15px;
+text-transform: capitalize;
+color: blue;
+
+
+}
+#input
+{
+    margin-top: 18px;
+    margin-left: 10px;
+    align-self: center;
+    border-style: hidden;
+    border-radius: 5px;
+    max-height: 35px;
+    min-height: 35px;
+    max-width: 300px;
+    
+}
+#bbutton
+{
+    /* color: green; */
+    /* background-color: green; */
+    margin-left: 10px;
+    max-height: 35px;
+}
