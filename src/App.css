@@ -50,3 +50,12 @@ color: blue;
     margin-left: 10px;
     max-height: 35px;
 }
+.main_heading
+{
+    text-align: center;
+margin-top: 10px;
+    font-family: 'Roboto Mono', monospace;
+ font-weight: bold;
+ align-self: center;
+
+}

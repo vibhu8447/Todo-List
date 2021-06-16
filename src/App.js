@@ -29,6 +29,12 @@ return olditems.filter((element,index)=>
     };
     return (
     <>
+    <div id="main-heading">
+    <div className="main_heading">
+        <h1>Todo List</h1>
+    </div>
+    </div>
+
     <div className="container mt-5">
     <input  id ="input" className="form "  placeholder=" Add a Items" value={search} onChange={InputEvent}></input>
     <button  id ="bbutton" className=" btn btn-info" onClick={listofitems}>+</button>
